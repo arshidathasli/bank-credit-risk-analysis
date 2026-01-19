@@ -1,0 +1,4 @@
+- Fraud transactions represent less than 1% of total transactions, reflecting real-world banking imbalance.
+- Fraud-related transactions show higher variance compared to normal transactions.
+- Sudden transaction spikes relative to recent customer behavior are strong indicators of abnormal activity.
+- SQL window functions are effective for rule-based anomaly detection before applying machine learning.
