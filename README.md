@@ -1,5 +1,9 @@
 Bank Transaction Risk Analysis
 
+Dataset Source:
+Kaggle – Credit Card Transactions Fraud Detection
+https://www.kaggle.com/datasets/kartik2112/fraud-detection
+
 (Python · MySQL · Data Analysis)
 
 Project Overview
